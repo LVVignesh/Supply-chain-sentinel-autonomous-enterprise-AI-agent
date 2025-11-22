@@ -1,7 +1,6 @@
 🛡️ The Supply Chain Sentinel: Autonomous Enterprise Risk Agent 
 
-Project Status: Capstone Submission for the Google/Kaggle AI Agents Intensive
-Architect: Vignesh vicky
+Project Status: Capstone Submission for the Google/Kaggle AI Agents Intensive Architect: Vignesh L V
 Tools: Google Agent Development Kit (ADK), Gemini 2.5 Flash, Gradio
 
 💡 Project Overview & Business Value
